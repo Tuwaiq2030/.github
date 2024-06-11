@@ -27,11 +27,7 @@ We offer a wide range of software development services, including:
 
 ## Our Projects
 
-We take pride in our diverse portfolio of projects. Here are a few highlights:
-
-- **Project Alpha**: A comprehensive enterprise management system.
-- **Project Beta**: A dynamic e-commerce platform.
-- **Project Gamma**: A robust mobile app for on-the-go service management.
+ - todo
 
 ## Contact Us
 
